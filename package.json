@@ -2,5 +2,11 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
     "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "vite": "^8.3.1"
+  },
+  "scripts": {
+    "build": "vite build"
   }
 }
